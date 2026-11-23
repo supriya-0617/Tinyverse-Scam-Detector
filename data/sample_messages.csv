@@ -1,0 +1,147 @@
+text,label,category,source,language
+"Your KYC will be blocked today. Click this link and share your OTP to reactivate your account.",SCAM,KYC/Bank,synthetic,en
+"Dear customer, your SBI bank account has been suspended due to incomplete KYC. Update immediately at http://sbi-kyc-update-online.xyz",SCAM,KYC/Bank,synthetic,en
+"URGENT: Your HDFC netbanking will be deactivated in 2 hours. Verify your PAN and PIN now at bit.ly/hdfc-verify-now",SCAM,KYC/Bank,synthetic,en
+"Alert! Your electricity bill is unpaid and power will be disconnected tonight at 9:30 PM. Call KYC officer 9876543210 and share OTP.",SCAM,KYC/Bank,synthetic,en
+"Your debit card is blocked due to suspicious activity. Share your 6-digit OTP and CVV to unblock immediately.",SCAM,KYC/Bank,synthetic,en
+"Axis Bank Notice: Your PAN card is not linked with your savings account. Click http://192.168.10.45/axis-pan to avoid Rs 5000 penalty.",SCAM,KYC/Bank,synthetic,en
+"Dear user, your Paytm wallet KYC has expired. Call our customer care and provide the verification code sent to your mobile.",SCAM,KYC/Bank,synthetic,en
+"ICICI Alert: Your credit card reward points worth Rs 4850 expire today. Redeem into bank account by entering netbanking password at tinyurl.com/icici-pts",SCAM,KYC/Bank,synthetic,en
+"Your FASTag is blacklisted due to pending KYC update. Click http://fastag-kyc-portal.top and enter UPI PIN to reactivate.",SCAM,KYC/Bank,synthetic,en
+"FINAL WARNING: Your SIM card will be deactivated within 24 hours for e-KYC failure. Call 8899776655 and share the verification OTP now.",SCAM,KYC/Bank,synthetic,en
+"Bank of Baroda: Your account access is frozen. To restore services, reply with your 4-digit ATM PIN and registered OTP.",SCAM,KYC/Bank,synthetic,en
+"Income Tax Refund of Rs 15,420 is approved but failed due to invalid bank KYC. Update account details and password at bit.ly/it-refund-kyc",SCAM,KYC/Bank,synthetic,en
+"Dear Customer, your YONO account will be closed today. Please update your K.Y.C details immediately via http://yono-update-doc.club",SCAM,KYC/Bank,synthetic,en
+"URGENT: Acc0unt bl0ck notice! Complete your K.Y.C upd@te now at cl1ck-h3re.xyz or lose access to your funds.",SCAM,KYC/Bank,synthetic,en
+"Your b@nk acc0unt has been temp0rarily locked. Share O.T.P and M-PIN to verify your identity immediately.",SCAM,KYC/Bank,synthetic,en
+"Warning: Your credit card limit will be cancelled. Submit CVV and OTP at http://card-verify-secure.online within 30 minutes.",SCAM,KYC/Bank,synthetic,en
+"Kotak Bank: Unusual login detected. Click http://kotak-secure-login.site and enter your CRN, password, and OTP to secure your account.",SCAM,KYC/Bank,synthetic,en
+"EPFO Alert: Your PF withdrawal of Rs 68,000 is on hold due to UAN KYC mismatch. Share your OTP with our representative to release funds.",SCAM,KYC/Bank,synthetic,en
+"Namaste, aaj hi KYC update karo warna account band ho jayega. Link par OTP bhejo.",SCAM,KYC/Bank,synthetic,hi-Latn
+"Aapka KYC band ho jayega aaj raat 12 baje. Turant is link par click karke apna OTP aur PIN darj karein: bit.ly/kyc-abhi",SCAM,KYC/Bank,synthetic,hi-Latn
+"Dear ग्राहक, aapka bank खाता suspend ho gaya hai. Chalu karne ke liye abhi call karein aur 6 digit OTP batayein.",SCAM,KYC/Bank,synthetic,mixed
+"Turant account verify karein warna aapka ATM card block kar diya jayega. Apna password aur CVV yahan bharein: http://atm-unblock.xyz",SCAM,KYC/Bank,synthetic,hi-Latn
+"Bijli vibhag warning: Aapka electricity bill update nahi hua hai, aaj raat bijli kat jayegi. Officer ko call karke OTP share karo.",SCAM,KYC/Bank,synthetic,hi-Latn
+"Aapka PAN card aadhaar se link nahi hai, aapka bank account freeze ho jayega. Abhi link par click karke netbanking login karein.",SCAM,KYC/Bank,synthetic,hi-Latn
+"Paytm KYC expire ho gaya hai! Apna wallet chalu rakhne ke liye turant is number par OTP bhejein.",SCAM,KYC/Bank,synthetic,hi-Latn
+"Aapke SBI khate mein KYC pending hai. Aaj hi update karo warna len-den band ho jayega: tinyurl.com/sbi-khata",SCAM,KYC/Bank,synthetic,hi-Latn
+"SIM card band hone wala hai! Telecom department se KYC verification ke liye abhi 9988776655 par OTP forward karein.",SCAM,KYC/Bank,synthetic,hi-Latn
+"Aapka UPI ID block hone ja raha hai. Chalu rakhne ke liye link kholein aur apna 4 digit UPI PIN dalein.",SCAM,KYC/Bank,synthetic,hi-Latn
+"Congratulations! You won a lottery prize. Pay a release fee to receive the money.",SCAM,Lottery/Prize,synthetic,en
+"CONGRATULATIONS! Your mobile number has won Rs 25,00,000 in the KBC Mega Lucky Draw. Pay Rs 4500 processing fee to claim your prize now.",SCAM,Lottery/Prize,synthetic,en
+"You are the lucky winner of an iPhone 15 Pro and Rs 5 Lakh cash! Send Rs 1999 delivery and customs clearance charge via UPI to receive it.",SCAM,Lottery/Prize,synthetic,en
+"WhatsApp International Lottery: You have won $50,000 USD! Contact WhatsApp agent at +1-555-0199 and pay the RBI release tax of Rs 8,000.",SCAM,Lottery/Prize,synthetic,en
+"Spin & Win Jackpot! You won a Maruti Brezza car in our festive bumper draw. Pay registration tax of Rs 12,500 at bit.ly/claim-car-prize",SCAM,Lottery/Prize,synthetic,en
+"Dear customer, you have been selected for a surprise cashback reward of Rs 10,000. Enter your UPI PIN on the collect request to claim prize.",SCAM,Lottery/Prize,synthetic,en
+"Amazon Great Indian Lucky Winner! Claim your Fr33 pr1ze of Rs 1,00,000 by paying a refundable security fee of Rs 999 at http://amzn-lucky.xyz",SCAM,Lottery/Prize,synthetic,en
+"Hurray! Your ticket won 1st prize in Dubai Duty Free Raffle. Transfer Rs 6,500 foreign exchange conversion fee to release your winnings.",SCAM,Lottery/Prize,synthetic,en
+"Flipkart Anniversary Gift: You won a free MacBook Air! Pay Rs 1,499 GST and shipping charge within 1 hour at tinyurl.com/fk-gift-claim",SCAM,Lottery/Prize,synthetic,en
+"C0ngratulati0ns! Claim your fr33e gift voucher worth Rs 50,000. Cl1ck h3re http://win-voucher.top and pay Rs 500 activation fee.",SCAM,Lottery/Prize,synthetic,en
+"Jio Lucky Draw: Your SIM number won Rs 7,50,000 bumper prize. Deposit Rs 3,200 file charge into our lucky draw manager account today.",SCAM,Lottery/Prize,synthetic,en
+"Google Pay Scratch Card Winner: Rs 4,999 won! Approve the UPI collect notification and enter your 4-digit PIN to receive cash in bank.",SCAM,Lottery/Prize,synthetic,en
+"Lucky Draw Department: Your prize money of Rs 15 Lakh is ready for bank transfer. Pay TDS fee of Rs 7,500 immediately to avoid cancellation.",SCAM,Lottery/Prize,synthetic,en
+"Badhaai ho, aapka inaam nikla hai. Prize lene ke liye pehle processing fee bhejo.",SCAM,Lottery/Prize,synthetic,hi-Latn
+"Aapne lottery jeeti hai 25 lakh rupaye ki! KBC head office se paisa apne khate mein mangwane ke liye abhi Rs 5000 tax jama karein.",SCAM,Lottery/Prize,synthetic,hi-Latn
+"Mubarak ho! Aapke mobile number par bumper car prize nikla hai. Delivery charge Rs 3500 UPI se bhejein aur gaadi ghar mangwayein.",SCAM,Lottery/Prize,synthetic,hi-Latn
+"Aapko mila hai Rs 20,000 ka cashback reward! Paisa bank mein lene ke liye abhi link kholein aur apna UPI PIN enter karein.",SCAM,Lottery/Prize,synthetic,hi-Latn
+"Lucky draw mein aapka naam aaya hai, iPhone jeetne ki badhaai! Sirf Rs 1200 courier fee dekar apna gift claim karein: bit.ly/inaam-lo",SCAM,Lottery/Prize,synthetic,hi-Latn
+"Bumper dhamaka! Aapne jeeta hai 10 tola sona aur 5 lakh cash. Inaam release karwane ke liye pehle Rs 2500 file charge जमा karein.",SCAM,Lottery/Prize,synthetic,mixed
+"Aapka WhatsApp number lucky draw mein select hua hai. 15 lakh ka cheque lene ke liye turant agent ko processing fee transfer karein.",SCAM,Lottery/Prize,synthetic,hi-Latn
+"Instant loan approved. Pay an advance processing charge to unlock the amount.",SCAM,Loan/Credit,synthetic,en
+"Congratulations! Pre-approved personal loan of Rs 5,00,000 at 0% interest with no CIBIL check. Pay Rs 2,500 file processing fee to disburse now.",SCAM,Loan/Credit,synthetic,en
+"Urgent Cash Loan in 5 minutes! Even low CIBIL defaulters get guaranteed Rs 2 Lakh loan. Send Rs 1,500 insurance charge via UPI first.",SCAM,Loan/Credit,synthetic,en
+"PM Mudra Yojana Loan of Rs 3,00,000 sanctioned for your mobile number. Pay Rs 1,850 GST and agreement fee to receive instant bank transfer.",SCAM,Loan/Credit,synthetic,en
+"L0an appr0ved! Rs 1,50,000 ready for transfer to your bank. Cl1ck http://instant-l0an-cash.xyz and pay Rs 999 advance NOC fee.",SCAM,Loan/Credit,synthetic,en
+"Bajaj Finance Special Offer: Rs 10 Lakh loan approved without documents. Deposit Rs 4,200 refundable security deposit to release loan today.",SCAM,Loan/Credit,synthetic,en
+"Your instant credit line of Rs 75,000 is activated. Download our APK from http://quick-cash-loan.top and pay Rs 499 activation charge.",SCAM,Loan/Credit,synthetic,en
+"Lifetime Free Gold Credit Card with Rs 3 Lakh limit approved! Pay Rs 1,100 courier & card printing fee upfront to dispatch your card.",SCAM,Loan/Credit,synthetic,en
+"Dhani Instant Loan: Rs 2,50,000 approved in your name. Transfer Rs 1,999 TDS fee to our relationship manager to credit money in 10 mins.",SCAM,Loan/Credit,synthetic,en
+"Paperless Aadhaar Loan! Get Rs 1 Lakh in 10 minutes with zero verification. Pay Rs 750 advance login fee at bit.ly/aadhar-fast-loan",SCAM,Loan/Credit,synthetic,en
+"Emergency medical loan of Rs 4,00,000 approved at 2% yearly interest. Pay upfront legal documentation charge of Rs 2,200 to disburse.",SCAM,Loan/Credit,synthetic,en
+"Turant loan chahiye? Pehle registration fee bhejo, guaranteed approval milega.",SCAM,Loan/Credit,synthetic,hi-Latn
+"Loan approval ke liye payment karein: Aapka 3 lakh ka personal loan pass ho gaya hai, bas Rs 1500 file charge abhi UPI karein.",SCAM,Loan/Credit,synthetic,hi-Latn
+"Bina CIBIL score aur bina document ke 5 minute mein 2 lakh ka loan paayein! Pehle Rs 1200 processing fee jama karke loan unlock karein.",SCAM,Loan/Credit,synthetic,hi-Latn
+"Aapke Aadhaar card par Rs 1,00,000 ka Sarkari Mudra Loan approve hua hai. Khate mein paisa lene ke liye Rs 950 insurance fee bhejein.",SCAM,Loan/Credit,synthetic,hi-Latn
+"Sasta loan offer! 0% byaj par 5 lakh tak ka turant loan. Disbursement ke liye pehle Rs 2000 advance fee is number par PayTM karein.",SCAM,Loan/Credit,synthetic,hi-Latn
+"Credit card limit badhane ya naya instant loan lene ke liye link par click karein aur Rs 599 verification charge pay karein.",SCAM,Loan/Credit,synthetic,hi-Latn
+"Work from home job guaranteed. Pay registration fee today to secure your position.",SCAM,Job/Investment,synthetic,en
+"Daily profit guaranteed in this investment plan. Send money now to double it.",SCAM,Job/Investment,synthetic,en
+"Earn Rs 5,000 to Rs 15,000 daily from home just by liking YouTube videos and Google Maps reviews! Message on Telegram t.me/easy_task_pay",SCAM,Job/Investment,synthetic,en
+"Congratulations! You are selected for Amazon Data Entry Work From Home. Salary Rs 45,000/month. Pay Rs 1,250 laptop security fee today.",SCAM,Job/Investment,synthetic,en
+"VIP Stock Market Crypto Trading Group: Guaranteed 300% return in 7 days! Invest Rs 10,000 today and get Rs 40,000 back on Monday.",SCAM,Job/Investment,synthetic,en
+"TATA Company Direct Hiring! Confirmed job offer letter ready. Pay Rs 2,500 refundable medical & uniform fee to HR via UPI before 5 PM.",SCAM,Job/Investment,synthetic,en
+"Part-time mobile job: Rate hotels online and earn Rs 800 per task. Prepaid VIP task requires Rs 3,000 deposit for Rs 9,000 instant payout!",SCAM,Job/Investment,synthetic,en
+"Double your money in 48 hours! Join our insider institutional IPO trading portal at http://vip-stock-double.xyz and deposit Rs 5,000.",SCAM,Job/Investment,synthetic,en
+"Airport Ground Staff urgent selection without interview! Fixed salary Rs 38,000. Send Rs 1,800 gate pass & training fee to confirm seat.",SCAM,Job/Investment,synthetic,en
+"High-return USDT mining scheme: Zero risk, 15% daily guaranteed profit! Cl1ck h3re bit.ly/usdt-mine-vip to invest now.",SCAM,Job/Investment,synthetic,en
+"Pencil packing work from home job. Earn Rs 30,000 monthly. Pay Rs 999 registration and raw material delivery fee to start today.",SCAM,Job/Investment,synthetic,en
+"Ghar baithe mobile se roz Rs 3000 se Rs 8000 kamayein! Sirf YouTube video like karein aur prepaid task mein paisa lagakar double paayein.",SCAM,Job/Investment,synthetic,hi-Latn
+"Pehle registration fee bhejein: Railway aur Airport mein pakki naukri bina exam ke! Joining letter ke liye abhi Rs 2000 jama karein.",SCAM,Job/Investment,synthetic,hi-Latn
+"10 din mein paisa double karne wali guaranteed trading scheme! Aaj Rs 5000 invest karo aur agle hafte Rs 15000 sidhe bank mein pao.",SCAM,Job/Investment,synthetic,hi-Latn
+"Work from home data entry job पक्की नौकरी! Mahina Rs 35,000 salary. Shuru karne ke liye Rs 850 ID card aur registration charge bhejein.",SCAM,Job/Investment,synthetic,mixed
+"Telegram task pura karo aur har ghante Rs 1000 kamao. VIP level unlock karne ke liye abhi Rs 3000 recharge deposit karein.",SCAM,Job/Investment,synthetic,hi-Latn
+"Share market insider tips: 100% guaranteed munafa har roz! Humare VIP group mein judne aur paisa 3 guna karne ke liye link kholein.",SCAM,Job/Investment,synthetic,hi-Latn
+"FedEx Customs Alert: Your international parcel contains illegal items and is seized by Mumbai Customs. Pay Rs 25,000 clearance fine now.",SCAM,Other,synthetic,en
+"Hi Dad, I lost my phone and my bank app isn't working. I urgently need Rs 15,000 for hospital bills, please send to this friend's UPI ID.",SCAM,Other,synthetic,en
+"I accidentally sent Rs 20,000 to your GPay number by mistake. Please approve the collect request or click http://refund-upi-now.xyz to return.",SCAM,Other,synthetic,en
+"India Post Notice: Your package delivery failed twice due to incomplete address. Click http://indiapost-rebook.top and pay Rs 49 re-delivery fee.",SCAM,Other,synthetic,en
+"Army Officer here buying your OLX sofa for Rs 18,000. Scan this QR code and enter your UPI PIN to receive advance payment in your account.",SCAM,Other,synthetic,en
+"CBI Cyber Crime Notice: An arrest warrant is issued against your Aadhaar ID. Transfer security bond to our official verification account immediately.",SCAM,Other,synthetic,en
+"Traffic E-Challan Alert: Vehicle fined Rs 2,000 for overspeeding. Download challan APK at http://parivahan-challan-pay.xyz to avoid court case.",SCAM,Other,synthetic,en
+"5G SIM Upgrade: Upgrade your 4G SIM to 5G for fr33! Share the 6-digit OTP and SIM serial code at bit.ly/5g-sim-upgrde now.",SCAM,Other,synthetic,en
+"Beta main tumhare papa ka dost bol raha hoon, unki tabiyat kharab hai aur hospital mein Rs 20,000 jama karne hain. Turant is number par UPI karo.",SCAM,Other,synthetic,hi-Latn
+"Aapke naam se aaya international parcel customs ne pakda hai. Police case se bachne ke liye abhi Rs 15,000 penalty transfer karein.",SCAM,Other,synthetic,hi-Latn
+"OLX payment: Main aapko advance paisa bhej raha hoon, QR code scan karke apna UPI PIN dalein taaki paisa aapke account mein aa jaye.",SCAM,Other,synthetic,hi-Latn
+"Galti se aapke number par Rs 5000 chale gaye hain, meri maa bimar hain please is link par click karke PIN daal kar paisa wapas kar dein.",SCAM,Other,synthetic,hi-Latn
+"Your account was debited by Rs 450. If this was not you, contact your bank using its official app.",SAFE,,synthetic,en
+"Your OTP is 482913. Do not share it with anyone.",SAFE,,synthetic,en
+"Rs. 1,250.00 debited from A/c XX4821 on 23-Nov-26 to VPA swiggy@axisbank (UPI Ref 632819402112). Avl Bal: Rs. 18,430.50.",SAFE,,synthetic,en
+"Dear Customer, your A/c XX9012 is credited with INR 45,000.00 on 01-Nov-26 via NEFT (Salary). Available Balance is INR 62,110.00.",SAFE,,synthetic,en
+"839201 is your one-time password (OTP) for netbanking login at HDFC Bank. Valid for 10 mins. Never share this OTP with anyone.",SAFE,,synthetic,en
+"Security Alert from SBI: Bank never asks for your OTP, PIN, CVV, or password over phone, SMS, or email. Stay safe from KYC fraud.",SAFE,,synthetic,en
+"Your periodic KYC update has been successfully processed at your home branch. No further action is required from your side.",SAFE,,synthetic,en
+"ICICI Bank: Rs 3,000 withdrawn from ATM +S1AC02 on 22-Nov-26 using Card XX1122. Avl Bal: Rs 14,200. Call 18001080 from official card back if unauthorized.",SAFE,,synthetic,en
+"Dear Customer, your e-statement for savings account XX3344 for October 2026 has been sent to your registered email ID.",SAFE,,synthetic,en
+"Your FD of Rs 50,000 with Axis Bank has been renewed for 12 months at 7.1% p.a. Visit your nearest branch for any queries.",SAFE,,synthetic,en
+"391044 is your OTP for Amazon login. Do not share this code with anyone, even if they claim to be from customer support.",SAFE,,synthetic,en
+"Informational Advisory: RBI reminds citizens that you do not need to enter your UPI PIN to receive money. PIN is only required for sending money.",SAFE,,synthetic,en
+"Your standing instruction for mutual fund SIP of Rs 2,000 from A/c XX7711 has been executed successfully today.",SAFE,,synthetic,en
+"Bank Holiday Notice: All branches will remain closed tomorrow on account of Guru Nanak Jayanti. Digital banking services will work as usual.",SAFE,,synthetic,en
+"OTP kisi ke saath share mat karna. Bank kabhi OTP nahi maangta.",SAFE,,synthetic,hi-Latn
+"Savdhan! Kisi bhi anjaan link par click na karein aur apna OTP, ATM PIN ya password kisi ko na batayein. Surakshit rahein.",SAFE,,synthetic,hi-Latn
+"Aapka bank statement aapke registered email par bhej diya gaya hai. Kisi bhi jankari ke liye apni branch mein sampark karein.",SAFE,,synthetic,hi-Latn
+"Mera KYC branch mein jaakar ho gaya hai, manager ne bola ab sab theek hai aur koi form nahi bharna.",SAFE,,synthetic,hi-Latn
+"Your parcel is out for delivery today. Track it in the courier app you already use.",SAFE,,synthetic,en
+"Your UPI payment of Rs 250 was successful.",SAFE,,synthetic,en
+"URGENT: Your package delivery is scheduled for today. Please be available.",SAFE,,synthetic,en
+"Paid Rs 180.00 to Metro Dairy via UPI Ref 419283746510. Thank you for using Google Pay.",SAFE,,synthetic,en
+"BlueDart Update: Your shipment AWB 7788991122 is out for delivery with executive Rajesh. No payment is required as order is prepaid.",SAFE,,synthetic,en
+"Your electricity bill of Rs 1,420 for consumer number 1029384756 has been paid successfully. Receipt is available in your official app.",SAFE,,synthetic,en
+"Your Swiggy order #49201 is being prepared by the restaurant and will be delivered by 8:45 PM.",SAFE,,synthetic,en
+"Jio Recharge Successful! Plan of Rs 299 (1.5GB/day, 28 days) is now active on your mobile number.",SAFE,,synthetic,en
+"IRCTC Booking Confirmed: PNR 2849103847, Train 12951, Journey Date 28-Nov-26, Coach B2, Berth 34. Wish you a happy journey.",SAFE,,synthetic,en
+"Urgent reminder from Indigo: Boarding gate for Flight 6E-204 has changed to Gate 14B. Boarding closes in 25 minutes.",SAFE,,synthetic,en
+"Check out the official Python documentation at https://docs.python.org/3/ for tomorrow's coding workshop.",SAFE,,synthetic,en
+"Here is the GitHub repository link for our college hackathon project: https://github.com/team/scam-detector",SAFE,,synthetic,en
+"Kal milte hain, 5 baje coffee pe chalte hain.",SAFE,,synthetic,hi-Latn
+"Thank you for applying. We have received your job application.",SAFE,,synthetic,en
+"Your monthly loan EMI payment has been received. Thank you.",SAFE,,synthetic,en
+"Reminder: your appointment is scheduled for tomorrow at 10 AM.",SAFE,,synthetic,en
+"Dear Candidate, thank you for attending the technical interview at Infosys. Our HR team will update you next week. Note: We never charge any fee for hiring.",SAFE,,synthetic,en
+"We have received your home loan EMI of Rs 24,500 for November 2026 towards Loan Account LN998822. Thank you for your timely payment.",SAFE,,synthetic,en
+"Your education loan closure certificate has been generated and dispatched to your permanent address.",SAFE,,synthetic,en
+"Apollo Clinic Reminder: Your dental checkup with Dr. Sharma is confirmed for Friday at 4:30 PM. Reply C to cancel or reschedule via clinic reception.",SAFE,,synthetic,en
+"Hey! Did you hear that Rohan won first prize in the inter-college coding competition today? Let's throw him a party this weekend!",SAFE,,synthetic,en
+"Mom asked me to remind you to pick up groceries and pay the milkman Rs 600 on your way back from office.",SAFE,,synthetic,en
+"Urgent: Please submit your semester project report on the university portal before 5 PM today, otherwise late marks will apply.",SAFE,,synthetic,en
+"Can you send me the notes for chapter 4? We have a class test tomorrow morning at 9 AM.",SAFE,,synthetic,en
+"Our team won the second prize trophy at the science exhibition! See you at the auditorium for the group photo.",SAFE,,synthetic,en
+"Bhai aaj shaam ko cricket khelne chalna hai kya? Ground par 6 baje milte hain.",SAFE,,synthetic,hi-Latn
+"Mummy keh rahi hain aate waqt 2 kilo aalu aur dhoodh lete aana, maine UPI se paise bhej diye hain.",SAFE,,synthetic,hi-Latn
+"Aरे yaar, Rahul ko college debate mein first prize mila hai! Aaj uski taraf se canteen mein party pakki.",SAFE,,synthetic,mixed
+"Meri bike loan ki aakhri EMI aaj kat gayi account se, finally loan khatam ho gaya!",SAFE,,synthetic,hi-Latn
+"Kal subah 10 baje mera TCS mein online interview hai, wish me luck!",SAFE,,synthetic,hi-Latn
+"Urgent hai bhai, presentation ki PPT jaldi email kar de, sir class mein aa gaye hain.",SAFE,,synthetic,hi-Latn
+"Aaj bijli ka bill official app se bhar diya hai maine, receipt WhatsApp par bhej di hai dekh lena.",SAFE,,synthetic,hi-Latn
+"Doctor ke paas kal shaam 7 baje ka appointment book ho gaya hai, time par pahunch jana.",SAFE,,synthetic,hi-Latn
+"Bank جا kar maine naya cheque book apply kar diya hai, 1 hafte mein ghar ke address par post se aa jayega.",SAFE,,synthetic,mixed

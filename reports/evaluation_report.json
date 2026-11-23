@@ -1,0 +1,351 @@
+{
+  "model_metadata": {
+    "model_version": "1.0.0-m2-ml-baseline",
+    "created_at_utc": "2026-11-23T12:48:58.121371+00:00",
+    "random_seed": 42,
+    "decision_threshold": 0.5,
+    "feature_count": 6376,
+    "cv5_train_f1_mean": 0.9211,
+    "cv5_train_f1_std": 0.0124
+  },
+  "dataset_validation": {
+    "total_rows": 146,
+    "scam_count": 94,
+    "safe_count": 52,
+    "duplicate_count": 0,
+    "missing_value_count": 0,
+    "category_counts": {
+      "KYC/Bank": 28,
+      "Lottery/Prize": 20,
+      "Loan/Credit": 17,
+      "Job/Investment": 17,
+      "Other": 12
+    },
+    "language_counts": {
+      "en": 99,
+      "hi-Latn": 42,
+      "mixed": 5
+    },
+    "source_counts": {
+      "synthetic": 146
+    },
+    "warnings": [
+      "Dataset contains 146 rows (all synthetic). High validation/test metrics demonstrate pipeline correctness but do not guarantee accuracy on all wild real-world traffic."
+    ],
+    "is_valid": true
+  },
+  "split_sizes": {
+    "train": 102,
+    "val": 22,
+    "test": 22
+  },
+  "train_metrics": {
+    "split_name": "train",
+    "row_count": 102,
+    "scam_support": 66,
+    "safe_support": 36,
+    "binary": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "safe_false_positive_rate": 0.0,
+      "scam_false_negative_rate": 0.0,
+      "confusion_matrix": {
+        "tn": 36,
+        "fp": 0,
+        "fn": 0,
+        "tp": 66
+      }
+    },
+    "category": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0,
+      "labels": [
+        "KYC/Bank",
+        "Lottery/Prize",
+        "Loan/Credit",
+        "Job/Investment",
+        "Other"
+      ],
+      "confusion_matrix": [
+        [
+          20,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          14,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          12,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          12,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          8
+        ]
+      ],
+      "per_category": {
+        "KYC/Bank": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 20
+        },
+        "Lottery/Prize": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 14
+        },
+        "Loan/Credit": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 12
+        },
+        "Job/Investment": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 12
+        },
+        "Other": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 8
+        }
+      }
+    }
+  },
+  "validation_metrics": {
+    "split_name": "validation",
+    "row_count": 22,
+    "scam_support": 14,
+    "safe_support": 8,
+    "binary": {
+      "accuracy": 0.9545,
+      "precision": 0.9333,
+      "recall": 1.0,
+      "f1_score": 0.9655,
+      "safe_false_positive_rate": 0.125,
+      "scam_false_negative_rate": 0.0,
+      "confusion_matrix": {
+        "tn": 7,
+        "fp": 1,
+        "fn": 0,
+        "tp": 14
+      }
+    },
+    "category": {
+      "accuracy": 0.8571,
+      "macro_f1": 0.8492,
+      "weighted_f1": 0.8305,
+      "labels": [
+        "KYC/Bank",
+        "Lottery/Prize",
+        "Loan/Credit",
+        "Job/Investment",
+        "Other"
+      ],
+      "confusion_matrix": [
+        [
+          4,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      ],
+      "per_category": {
+        "KYC/Bank": {
+          "precision": 0.8,
+          "recall": 1.0,
+          "f1_score": 0.8889,
+          "support": 4
+        },
+        "Lottery/Prize": {
+          "precision": 1.0,
+          "recall": 0.3333,
+          "f1_score": 0.5,
+          "support": 3
+        },
+        "Loan/Credit": {
+          "precision": 0.75,
+          "recall": 1.0,
+          "f1_score": 0.8571,
+          "support": 3
+        },
+        "Job/Investment": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 2
+        },
+        "Other": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 2
+        }
+      }
+    }
+  },
+  "test_metrics": {
+    "split_name": "test",
+    "row_count": 22,
+    "scam_support": 14,
+    "safe_support": 8,
+    "binary": {
+      "accuracy": 0.9545,
+      "precision": 0.9333,
+      "recall": 1.0,
+      "f1_score": 0.9655,
+      "safe_false_positive_rate": 0.125,
+      "scam_false_negative_rate": 0.0,
+      "confusion_matrix": {
+        "tn": 7,
+        "fp": 1,
+        "fn": 0,
+        "tp": 14
+      }
+    },
+    "category": {
+      "accuracy": 0.9286,
+      "macro_f1": 0.9048,
+      "weighted_f1": 0.9218,
+      "labels": [
+        "KYC/Bank",
+        "Lottery/Prize",
+        "Loan/Credit",
+        "Job/Investment",
+        "Other"
+      ],
+      "confusion_matrix": [
+        [
+          4,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          1
+        ]
+      ],
+      "per_category": {
+        "KYC/Bank": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 4
+        },
+        "Lottery/Prize": {
+          "precision": 0.75,
+          "recall": 1.0,
+          "f1_score": 0.8571,
+          "support": 3
+        },
+        "Loan/Credit": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 2
+        },
+        "Job/Investment": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1_score": 1.0,
+          "support": 3
+        },
+        "Other": {
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1_score": 0.6667,
+          "support": 2
+        }
+      }
+    }
+  },
+  "performance_benchmarks": {
+    "training_time_ms": 776.43,
+    "model_size_kb": 228.02,
+    "model_load_time_ms": 91.79,
+    "single_prediction_latency_ms": 16.775
+  }
+}

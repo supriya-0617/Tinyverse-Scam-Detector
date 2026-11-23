@@ -1,0 +1,18 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.env
+*.log
+models/*.joblib
+models/*.pkl
+# Keep the trained model required by the application
+!models/scam_detector.joblib
+# Protect local secrets
+.env*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
